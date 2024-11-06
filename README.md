@@ -10,5 +10,5 @@ A graphical representaiton of the stack shows each element as a box.
 
 ## Prerequisites:
 
-Python (Version3.x)
-Tkinter Library (usually included with Python)
+1. Python (Version3.x)
+2. Tkinter Library (usually included with Python)

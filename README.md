@@ -1,5 +1,5 @@
-#Visualising a Stack using Pythons Tkinter Library
-##Description
+# Visualising a Stack using Pythons Tkinter Library
+## Description
 This python application provides a visual representation of the stack data type using the Tkinter library.
 1. **Push** elements onto the stack
 2. **Pop** elements from the stack

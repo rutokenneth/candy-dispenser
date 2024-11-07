@@ -5,11 +5,11 @@ from tkinter import ttk, messagebox, Canvas
 appStack = Stack(6)
 
 root = Tk()
-root.geometry("400x300")
+# root.geometry("400x300")
 frame = ttk.Frame(root, padding=12)
 frame.grid()
 
-canvas = Canvas(frame, background="floral white")
+canvas = Canvas(frame, background="wheat")
 canvas.grid(column=0, row=0, columnspan=10, rowspan=10)
 
 # initial values
